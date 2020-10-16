@@ -1,5 +1,5 @@
 # DREGCN
-Code for "A Dependency Syntactic Knowledge Augmented Interactive Architecture for End-to-End Aspect-based Sentiment Analysis"
+Code for [A Dependency Syntactic Knowledge Augmented Interactive Architecture for End-to-End Aspect-based Sentiment Analysis](https://arxiv.org/abs/2004.01951)
 
 ## Introduction
 
