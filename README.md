@@ -7,7 +7,8 @@ The implementation is based on [IMN](https://github.com/ruidan/IMN-E2E-ABSA) and
 
 ## Usage
 
-Training and evaluating with the following scripts: 
+Training and evaluating with the following scripts (the Hyper-parameters are shown in 'train.py' file and you may change them for better results): 
+
 ```
 bash train.sh
 ```
@@ -20,7 +21,7 @@ bash train.sh
 
 ## Citation
 
-If you find this project helps, please cite our paper :)
+If you find this project helps, please cite the following paper :)
 
 ```
 @misc{liang2020dependency,
