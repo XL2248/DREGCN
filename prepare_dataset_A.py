@@ -43,7 +43,7 @@ embeddings_str = path + "embedding/" + EMBEDDINGS# + ".gz"
 embeddings_str_domain = path + "embedding/" + EMBEDDINGS_DOMAIN# + ".gz"
 embedding_path='glove.840B.300d.part.txt' 
 
-meta = pkl.load(open('word2idx_doc4%s.pkl'%(args['dataset_type']), 'rb'))
+meta = pkl.load(open('word2idx_doc4%s.pkl'%(args['dataset_type']), 'rb')) # please refer to line 74-77 in read.py
 word2idx = meta['word2idx']
 # or this
 # word2idx = word2idx_from_embeddings(embedding_path, max_num_words=MAX_NUM_WORDS)
