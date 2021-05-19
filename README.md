@@ -23,12 +23,13 @@ bash train.sh
 If you find this project helps, please cite the following paper :)
 
 ```
-@misc{liang2020dependency,
-      title={A Dependency Syntactic Knowledge Augmented Interactive Architecture for End-to-End Aspect-based Sentiment Analysis}, 
-      author={Yunlong Liang and Fandong Meng and Jinchao Zhang and Jinan Xu and Yufeng Chen and Jie Zhou},
-      year={2020},
-      eprint={2004.01951},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{LIANG2021,
+title = {A Dependency Syntactic Knowledge Augmented Interactive Architecture for End-to-End Aspect-based Sentiment Analysis},
+journal = {Neurocomputing},
+year = {2021},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2021.05.028},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231221007815},
+author = {Yunlong Liang and Fandong Meng and Jinchao Zhang and Yufeng Chen and Jinan Xu and Jie Zhou}
 }
 ```
